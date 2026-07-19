@@ -1,5 +1,9 @@
 # ClearTax Invoice Download Automation
 
+Helped my dad out by automating the download of over 300k invoices
+
+![Demo of the application running](demo.gif)
+
 A Selenium + pandas framework that goes row-by-row through the
 `grouped_invoices_by_template_1807.xlsx` sheet (62,440 rows), searches each
 row's group of invoice numbers together on the ClearTax e-invoicing
