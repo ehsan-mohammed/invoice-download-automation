@@ -1,4 +1,4 @@
-# ClearTax Invoice Download Automation
+# Invoice Download Automation
 
 Helped my dad out by automating the download of over 300k invoices
 
